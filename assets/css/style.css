@@ -451,6 +451,118 @@ footer {
 
 @media only screen and (max-width:640px) {
   /*About*/
-  body{
-  	background-color: lightblue;
+  header{
+  	float:left;
+  	padding:43px 0 44px 0;
+  	border-left: 0px;
+  	border-right: 0px;
+  	width: 623px;
+
   }
+
+  h1{
+  	float:left;
+  	margin-left: 0;
+  	width:573px;
+  	text-align:center;
+  	display:block;
+  }
+
+  .about{
+  	top:23px;
+	left:71px;
+  }
+
+  .portfolio{
+  	top:23px;
+	left: 153px;
+    padding: 0 78px;
+  }
+
+  .contact{
+  	top:23px;
+	left:231px;
+  }
+
+  .profile{
+  	float:none;
+  	width: 300px;
+	display: block;
+    margin: 0 auto;
+  	margin-bottom: 25px;
+  }
+  
+  section{
+  	width:518px;
+  }
+
+  aside{
+  	width:578px;
+  }
+
+  .empty-space-about{
+	padding-bottom: 1420px;
+  }
+
+  footer {
+  	width:543px;
+  }
+
+  /*Portfolio*/
+   .hangman-image{
+  	width:518px;
+  	height:389px;
+  }
+
+  .rpg-image{
+  	width:518px;
+  	height:389px;
+  }
+
+  .rpg-game{
+  	margin-left: -48px;
+  }
+
+  .trivia-image{
+  	width:518px;
+  	height:389px;
+  }
+
+  .rutgers-image{
+	width:518px;
+  	height:389px;
+  }
+
+  .rutgers{
+  	margin-left: 0;
+  	margin-top: 25px;
+  }
+
+  .rps-image{
+  	width:518px;
+  	height:389px;
+  }
+
+  .in-image{
+	width:478px;
+  }
+
+  .empty-space-portfolio{
+	padding-bottom: 2800px;
+  }
+
+  /*Contact*/
+  .input {
+  	width: 495px;
+  }
+
+  .message-input{
+  	width: 495px;
+	height: 200px;
+  }
+
+  .empty-space-contact{
+	padding-bottom: 1200px;
+  }
+
+}

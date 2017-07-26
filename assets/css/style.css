@@ -170,6 +170,11 @@ footer {
 	margin-bottom: 25px;
 }
 
+.hangman-image{
+	width:300px;
+	height: 225px;
+}
+
 .in-image{
 	font-size: 20px;
 	padding:20px;
@@ -186,12 +191,21 @@ footer {
 	float:left;
 	position:relative;
 	margin: 0 0 25px 20px;
+}
 
+.rpg-image{
+	width:300px;
+	height: 225px;
 }
 
 .trivia{
 	float:left;
 	position:relative;
+}
+
+.trivia-image{
+	width:300px;
+	height: 225px;
 }
 
 .rutgers{
@@ -200,11 +214,20 @@ footer {
 	margin: 0 0 25px 20px;
 }
 
+.rutgers-image{
+	width:300px;
+	height: 225px;
+}
+
 .rps{
 	float:left;
 	position:relative;
 }
 
+.rps-image{
+	width:300px;
+	height: 225px;
+}
 .empty-space-portfolio{
 	padding-bottom: 1050px;
 }
@@ -300,7 +323,7 @@ footer {
   }
 
   .rpg-game{
-  	margin-left: 25px;
+  	margin-left: 0px;
   }
 
   .trivia-image{

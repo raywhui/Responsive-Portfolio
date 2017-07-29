@@ -260,12 +260,12 @@ footer {
 .button{
 	background-color:#4aaaa5;
 	font-size: 18px;
-    border: none;
-    color: white;
-    padding: 10px 30px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 
